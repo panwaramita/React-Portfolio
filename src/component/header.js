@@ -2,8 +2,8 @@ import React from 'react';
 import '../css/style.css'
 const Header=()=>{
 return(
-        <nav className="navbar fixed-top navbar-expand-lg bg-light navbar-light">
-            <a className="name-background" href="index.html">Amita</a>
+        <nav className="navbar header fixed-top navbar-expand-lg  navbar-light">
+            <a className="name-background" href="/">Amita</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                 <span className="navbar-toggler-icon"></span>
             </button>
@@ -16,7 +16,7 @@ return(
                         <a className="nav-link" href="portfolio.html">Portfolio</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link active" href="index.html">About</a>
+                        <a className="nav-link active" href="/about">About</a>
                     </li>
                 </ul>
             </div>

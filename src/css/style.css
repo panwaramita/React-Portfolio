@@ -6,6 +6,11 @@ body
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
+.header
+{
+    background-color: rgb(74, 170, 165);
+}
+
 /*provide the background color to the Name*/
 .name-background
 {
@@ -36,6 +41,8 @@ a:hover {
     color:blue;
  text-decoration:underline;
     cursor:pointer;
+    font-size: large;
+    margin-left: 2px;
 }
 
 .imgBorder
@@ -69,10 +76,15 @@ a:hover {
 /*Profile picture image dimension*/
 .Profile_pic
 {
-    max-width: 200px;
-    max-height: 200px;
-    float: left;
+    max-height: 300px;
     margin-right: 20px;
+    float: left;
+}
+
+p
+{
+    font-size: 18px;
+    text-align: justify ;
 }
 /*clear the border of all the cards*/
 .border_clear
