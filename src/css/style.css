@@ -11,6 +11,10 @@ body
     background-color: rgb(74, 170, 165);
 }
 
+.sectionMargin{
+    margin-top: 3px;
+}
+
 /*provide the background color to the Name*/
 .name-background
 {

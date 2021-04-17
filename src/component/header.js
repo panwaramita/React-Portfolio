@@ -1,5 +1,5 @@
 import React from 'react';
-import '../css/style.css'
+import '../css/style.css';
 const Header=()=>{
 return(
         <nav className="navbar header fixed-top navbar-expand-lg  navbar-light">
@@ -13,7 +13,7 @@ return(
                         <a className="nav-link" href="contact.html">Contact</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="portfolio.html">Portfolio</a>
+                        <a className="nav-link" href="/portfolio">Portfolio</a>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link active" href="/about">About</a>

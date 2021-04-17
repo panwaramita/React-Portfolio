@@ -1,5 +1,6 @@
 import React from 'react';
 import image from "../images/profile_pic.jpg";
+import Resume from '../images/AMITA_web_developer.pdf';
 import '../css/style.css';
 const About=()=>{
 return(
@@ -24,7 +25,7 @@ The other project in which I worked is Money First, in this project I was involv
             <div className="col-lg-12">
                 <a href="https://github.com/panwaramita" className="updated" target="blank">Github</a>
                 <a href="https://www.linkedin.com/in/panwaramita/" target="blank" className="updated">LinkedIn</a>
-                <a href="./asset/images/AMITA_web_developer.pdf"  target="blank" className="updated">Resume</a><br/>
+                <a href={Resume}  target="blank" className="updated">Resume</a><br/>
                 Phone: 1-301-921-5727<br/>
                 Email: panwar.amita@gmail.com
             </div>
