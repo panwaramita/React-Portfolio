@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.420815b1.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.dbfcc4bd.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.dbfcc4bd.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.169049f6.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.6867f77d.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.6867f77d.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.82da2457.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.82da2457.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.46559d3d.chunk.js": "/React-Portfolio/static/js/2.46559d3d.chunk.js",
-    "static/js/2.46559d3d.chunk.js.map": "/React-Portfolio/static/js/2.46559d3d.chunk.js.map",
+    "static/js/2.a8364879.chunk.js": "/React-Portfolio/static/js/2.a8364879.chunk.js",
+    "static/js/2.a8364879.chunk.js.map": "/React-Portfolio/static/js/2.a8364879.chunk.js.map",
     "static/js/3.46f63625.chunk.js": "/React-Portfolio/static/js/3.46f63625.chunk.js",
     "static/js/3.46f63625.chunk.js.map": "/React-Portfolio/static/js/3.46f63625.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.420815b1.chunk.css.map": "/React-Portfolio/static/css/main.420815b1.chunk.css.map",
-    "static/js/2.46559d3d.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.46559d3d.chunk.js.LICENSE.txt",
+    "static/css/main.169049f6.chunk.css.map": "/React-Portfolio/static/css/main.169049f6.chunk.css.map",
+    "static/js/2.a8364879.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.a8364879.chunk.js.LICENSE.txt",
     "static/media/AMITA_web_developer.d235cecb.pdf": "/React-Portfolio/static/media/AMITA_web_developer.d235cecb.pdf",
     "static/media/Advanture_Companion.eac41e0c.png": "/React-Portfolio/static/media/Advanture_Companion.eac41e0c.png",
     "static/media/Day_planner.62a43a22.png": "/React-Portfolio/static/media/Day_planner.62a43a22.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.82da2457.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.46559d3d.chunk.js",
-    "static/css/main.420815b1.chunk.css",
-    "static/js/main.dbfcc4bd.chunk.js"
+    "static/js/2.a8364879.chunk.js",
+    "static/css/main.169049f6.chunk.css",
+    "static/js/main.6867f77d.chunk.js"
   ]
 }
