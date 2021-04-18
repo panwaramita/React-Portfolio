@@ -79,6 +79,7 @@ a:hover {
 .Profile_pic
 {
     max-height: 300px;
+    max-width: 200px;
     margin-right: 20px;
     float: left;
 }
