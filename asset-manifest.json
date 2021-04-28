@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.abda0a10.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.fa45ea80.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.fa45ea80.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.ea47ded6.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.ea47ded6.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.4e1f5f1d.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.4e1f5f1d.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/React-Portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -19,6 +19,7 @@
     "static/media/Day_planner.62a43a22.png": "/React-Portfolio/static/media/Day_planner.62a43a22.png",
     "static/media/Login.ec9933b4.png": "/React-Portfolio/static/media/Login.ec9933b4.png",
     "static/media/Weather_Dashboard.725dd932.png": "/React-Portfolio/static/media/Weather_Dashboard.725dd932.png",
+    "static/media/book.4b1a3ec2.png": "/React-Portfolio/static/media/book.4b1a3ec2.png",
     "static/media/burger.2a5845b7.png": "/React-Portfolio/static/media/burger.2a5845b7.png",
     "static/media/code_quiz.e0d11d5c.png": "/React-Portfolio/static/media/code_quiz.e0d11d5c.png",
     "static/media/logo.6ce24c58.svg": "/React-Portfolio/static/media/logo.6ce24c58.svg",
@@ -30,6 +31,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.6369a134.chunk.js",
     "static/css/main.abda0a10.chunk.css",
-    "static/js/main.fa45ea80.chunk.js"
+    "static/js/main.ea47ded6.chunk.js"
   ]
 }
