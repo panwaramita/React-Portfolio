@@ -17,7 +17,7 @@ return(
             <hr/>
             <section className="row">
                 <article className="col-lg-4 sectionMargin">
-                    <Card style={{ width: '18rem', backgroundColor: "#a6d8d5" }} className="imgBorderValue">
+                    <Card style={{ width: '18rem', backgroundColor: "#a6d8d5",marginBottom:"5px" }} className="imgBorderValue">
   <Card.Img variant="top" src={Library} style={{ height: '10rem'}} />
   <Card.Body>
     <Card.Title>Library Management Application</Card.Title>
@@ -29,7 +29,7 @@ return(
 </Card>
                 </article>
                 <article className="col-lg-4 sectionMargin">
-                    <Card style={{ width: '18rem', backgroundColor: "#a6d8d5"}} className="imgBorderValue">
+                    <Card style={{ width: '18rem', backgroundColor: "#a6d8d5",marginBottom:"5px"}} className="imgBorderValue">
   <Card.Img variant="top" src={Advanture_Companion} />
   <Card.Body>
     <Card.Title>Adventure Companion</Card.Title>
@@ -55,7 +55,7 @@ return(
                 </section>
                 <section className="row sectionMargin">
                 <article className="col-lg-4 sectionMargin">
-                    <Card style={{ width: '18rem' , backgroundColor: "#a6d8d5"}} className="imgBorderValue">
+                    <Card style={{ width: '18rem' , backgroundColor: "#a6d8d5",marginBottom:"5px"}} className="imgBorderValue">
   <Card.Img variant="top" src={Password_generator} />
   <Card.Body>
     <Card.Title>Password Generator</Card.Title>
@@ -67,7 +67,7 @@ return(
 </Card>     
                 </article>
                 <article className="col-lg-4 sectionMargin">
-                    <Card style={{ width: '18rem',  backgroundColor: "#a6d8d5" }} className="imgBorderValue">
+                    <Card style={{ width: '18rem',  backgroundColor: "#a6d8d5" ,marginBottom:"5px"}} className="imgBorderValue">
   <Card.Img variant="top" src={Day_planner} />
   <Card.Body>
     <Card.Title>Day Planner</Card.Title>
@@ -79,7 +79,7 @@ return(
 </Card>     
                 </article>
                 <article className="col-lg-4 sectionMargin">
-                    <Card style={{ width: '18rem', backgroundColor: "#a6d8d5"}} className="imgBorderValue">
+                    <Card style={{ width: '18rem', backgroundColor: "#a6d8d5",marginBottom:"5px"}} className="imgBorderValue">
   <Card.Img variant="top" src={Burger} />
   <Card.Body>
     <Card.Title>Burger</Card.Title>
@@ -93,7 +93,7 @@ return(
             </section>
             <section className="row sectionMargin" style={{marginBottom:"30px"}}>
                 <article className="col-lg-4 sectionMargin">
-                    <Card style={{ width: '18rem', backgroundColor: "#a6d8d5" }} className="imgBorderValue">
+                    <Card style={{ width: '18rem', backgroundColor: "#a6d8d5",marginBottom:"5px" }} className="imgBorderValue">
   <Card.Img variant="top" src={Weather_Dashboard} />
   <Card.Body>
     <Card.Title>Weather Dashboard</Card.Title>
@@ -105,7 +105,7 @@ return(
 </Card>     
                 </article>
                 <article className="col-lg-4 sectionMargin">
-                    <Card style={{ width: '18rem', backgroundColor: "#a6d8d5" }} className="imgBorderValue">
+                    <Card style={{ width: '18rem', backgroundColor: "#a6d8d5",marginBottom:"5px" }} className="imgBorderValue">
   <Card.Img variant="top" src={book} />
   <Card.Body>
     <Card.Title>Book Search</Card.Title>
