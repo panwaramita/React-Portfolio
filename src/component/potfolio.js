@@ -8,7 +8,6 @@ import Day_planner from "../images/Day_planner.png";
 import Burger from "../images/burger.png";
 import Weather_Dashboard from "../images/Weather_Dashboard.png";
 import book from "../images/book.png";
-import diary from "../images/Digital_diary.png";
 import { Card } from 'react-bootstrap';
 import { Button } from 'react-bootstrap';
 const Portfolio=()=>{
@@ -92,7 +91,7 @@ return(
 </Card>     
                 </article>
             </section>
-            <section className="row sectionMargin" style={{marginBottom:"60px"}}>
+            <section className="row sectionMargin" style={{marginBottom:"30px"}}>
                 <article className="col-lg-4 sectionMargin">
                     <Card style={{ width: '18rem', backgroundColor: "#a6d8d5" }} className="imgBorderValue">
   <Card.Img variant="top" src={Weather_Dashboard} />
@@ -114,18 +113,6 @@ return(
   <Card.Body>
     <Card.Link target="blank" href="https://github.com/panwaramita/BookSearch">Repository link</Card.Link>
     <Card.Link target="blank" href="https://mighty-crag-74366.herokuapp.com/">Deployed link</Card.Link>
-  </Card.Body>
-</Card>     
-                </article>
-                <article className="col-lg-4 sectionMargin">
-                    <Card style={{ width: '18rem', backgroundColor: "#a6d8d5" }} className="imgBorderValue">
-  <Card.Img variant="top" src={diary} />
-  <Card.Body>
-    <Card.Title>Digital Diary</Card.Title>
-  </Card.Body>
-  <Card.Body>
-    <Card.Link target="blank" href="https://github.com/spental/Digital-Diary">Repository link</Card.Link>
-    <Card.Link target="blank" href="https://quiet-forest-25305.herokuapp.com/">Deployed link</Card.Link>
   </Card.Body>
 </Card>     
                 </article>

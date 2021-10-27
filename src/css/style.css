@@ -29,7 +29,7 @@ text-align: center;
 }
 
 /*when hover the name link */
-.name-background:hover {
+a:hover {
     color:white;
     text-decoration:none;
     cursor:pointer;
@@ -70,6 +70,8 @@ text-align: center;
 {
     border:solid 1px black;
     background-color: red;
+     width: 900px; 
+     height: 430px;
 }
 
 /*assign the background color margin to the about me contact and portfolio tab*/
