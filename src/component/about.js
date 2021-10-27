@@ -1,6 +1,6 @@
 import React from 'react';
 import image from "../images/profile_pic.jpg";
-import Resume from '../images/AMITA_web_developer.pdf';
+import Resume from '../images/AMITA_web_developer1.pdf';
 import '../css/style.css';
 const About=()=>{
 return(
