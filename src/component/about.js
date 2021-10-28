@@ -25,7 +25,7 @@ return(
             <div className="col-lg-12">
                 <a href="https://github.com/panwaramita" className="updated" target="blank">Github</a>
                 <a href="https://www.linkedin.com/in/panwaramita/" target="blank" className="updated">LinkedIn</a>
-                <a href={Resume}  target="blank" className="updated">Resume</a><br/>
+                <a href="https://drive.google.com/file/d/1wXUZO5mKyUYyoH4pjympnWg4WUHqo-KB/view?usp=sharing"  target="blank" className="updated">Resume</a><br/>
                 Phone: 1-301-921-5727<br/>
                 Email: panwar.amita@gmail.com
             </div>
