@@ -29,4 +29,4 @@ Project is created with:
 ![image](./src/images/screenshot.png)
 ## Link
 
-[Portfolio](https://panwaramita.github.io/React-Portfolio/)
+[Portfolio](https://panwaramita.github.io/React-Portfolio/#/)
